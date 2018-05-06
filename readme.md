@@ -14,7 +14,7 @@
 * [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)
 * [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 * [深入解析Go](https://github.com/tiancaiamao/go-internals)
-* [Go学习笔记](../books/go/Go 学习笔记 第四版.pdf)
+* [Go学习笔记](../books/go/Go学习笔记第四版.pdf)
 
 ## 架构
 * [大型网站技术架构](../books/architecture/大型网站技术架构.pdf)
