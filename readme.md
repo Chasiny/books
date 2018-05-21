@@ -5,6 +5,8 @@
 
 ## 计算机网络
 * [图解http](/books/computer-network/图解+HTTP.pdf)
+* [http权威指南](/books/computer-network/http权威指南.pdf)
+* [图解TCPIP](/books/computer-network/图解TCPIP第5版.pdf)
 
 ## 数据库
 * [高性能mysql](/books/db/高性能mysql第三版.pdf)
